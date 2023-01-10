@@ -1,6 +1,6 @@
-# Resent
+# MightyClient
 
-Resent is the best eaglercraft pvp client. With a wide variety of both mods and texture packs, this client will become your new main in no time. Resent has updates **extremely** often. Want proof? check out my contribution (hours of sleep lost) graph.
+MightyClient is the best eaglercraft pvp client. With a wide variety of both mods and texture packs, this client will become your new main in no time. MightyClient has updates **extremely** often. Want proof? check out my contribution (hours of sleep lost) graph.
 
 ## Features
 
@@ -49,11 +49,11 @@ Resent is the best eaglercraft pvp client. With a wide variety of both mods and 
 
 The stable build will usually crash less, and all features should work as intended. The dev build will have beta features but may crash at times. The FPS build is an alternative with less mods, however increased FPS
 
-Stable build: https://resclient.vercel.app/
+Stable build: no
 
-Development build: [UNAVAILABLE]
+Development build: no
 
-FPS Build: https://resclientfps.netlify.app/
+FPS Build:no
 
 ### Dev build status
 
@@ -86,13 +86,13 @@ Made by EtcherFX (etcher#1849), modified by Legend (Legxnd#4194), Woody (woody#2
 
 ## Support
 
-Join our discord [here](https://discord.gg/CwU8pnbRMz) and ping @hooman#1196. I will get back to you ASAP. If you don't have discord open a new issue in the issues tab and I will try to help you.
+Join our discord [here](not yet) and ping @hooman#1196. will get back to you ASAP. If you don't have discord open a new issue in the issues tab and I will try to help you.
 
 ## FAQ
 
 ### Offline download?
 
-Follow the youtube guide [here](https://www.youtube.com/watch?v=WAZfXRdq-wQ). **PLEASE NOTE: IF THE OUTPUT SAYS "Killed" THAT MEANS YOU SELECTED TOO MANY TEXTURE PACKS. BECAUSE OF THIS, USE [GITPOD](https://gitpod.io) TO CREATE YOUR OFFLINE DOWNLOAD. ANOTHER ALTERNATIVE IF YOU HAVE A PC IS TO RUN IT LOCALLY.** We are unable to provide an offline download of every single texture pack because it crashes most computers. Instead, you should follow the guide above in order to create an offline download of your desired texture packs.
+Follow the youtube guide [here](no). **PLEASE NOTE: IF THE OUTPUT SAYS "Killed" THAT MEANS YOU SELECTED TOO MANY TEXTURE PACKS. BECAUSE OF THIS, USE [GITPOD](https://gitpod.io) TO CREATE YOUR OFFLINE DOWNLOAD. ANOTHER ALTERNATIVE IF YOU HAVE A PC IS TO RUN IT LOCALLY.** We are unable to provide an offline download of every single texture pack because it crashes most computers. Instead, you should follow the guide above in order to create an offline download of your desired texture packs.
 
 ### Eaglercraft 1.8?
 
